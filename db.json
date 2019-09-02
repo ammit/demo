@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "shipmentName": "1238123876273", "shipmentPrice": "10.00", "ShipmentDescription": "OK LOL" },
-    { "id": 2, "shipmentName": "1238123476273", "shipmentPrice": "10.00", "ShipmentDescription": "OK LOL" },
-    { "id": 3, "shipmentName": "9191822829292", "shipmentPrice": "10.00", "ShipmentDescription": "OK LOL" }
+    { "id": 1, "ShipmentName": "1238123876273", "ShipmentPrice": "10.00", "ShipmentDescription": "OK LOL" },
+    { "id": 2, "ShipmentName": "1238123476273", "ShipmentPrice": "10.00", "ShipmentDescription": "OK LOL" },
+    { "id": 3, "ShipmentName": "9191822829292", "ShipmentPrice": "10.00", "ShipmentDescription": "OK LOL" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
