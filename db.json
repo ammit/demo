@@ -1,5 +1,5 @@
 {
-  "shipments": [
+  "shipmentss": [
     { "id": 1, "ShipmentName": "1238123876273", "ShipmentPrice": "10.00", "ShipmentDescription": "OK LOL" },
     { "id": 1, "ShipmentName": "1238123876273", "ShipmentPrice": "10.00", "ShipmentDescription": "OK LOL" },
     { "id": 1, "ShipmentName": "1238123876273", "ShipmentPrice": "10.00", "ShipmentDescription": "OK LOL" },
